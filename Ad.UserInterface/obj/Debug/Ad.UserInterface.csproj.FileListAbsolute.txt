@@ -1,0 +1,84 @@
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.AssemblyReference.cache
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.MainForm.resources
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.Properties.Resources.resources
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.GenerateResource.cache
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.exe.config
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.exe
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.pdb
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.exe
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.pdb
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormCreareCont.resources
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormAdaugareAnunt.resources
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserI.FDA4F575.Up2Date
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormStergereAnunt.resources
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormAfisareAnunturi.resources
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormCautareAnunturi.resources
+C:\Users\ilinc\source\repos\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormModificareAnunt.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.exe.config
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.exe
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.pdb
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.AssemblyReference.cache
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormAdaugareAnunt.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormAfisareAnunturi.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormCautareAnunturi.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormCreareCont.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormModificareAnunt.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormStergereAnunt.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.MainForm.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.Properties.Resources.resources
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.GenerateResource.cache
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.CoreCompileInputs.cache
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserI.FDA4F575.Up2Date
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.exe
+F:\FACULTATE-2024-2025-sem.1\MEDII si INSTR. de PROGR\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.pdb
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.exe.config
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.exe
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\Ad.UserInterface.pdb
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.AssemblyReference.cache
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormAdaugareAnunt.resources
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormAfisareAnunturi.resources
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormCautareAnunturi.resources
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormCreareCont.resources
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormModificareAnunt.resources
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.FormStergereAnunt.resources
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.MainForm.resources
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.Properties.Resources.resources
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.GenerateResource.cache
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserI.FDA4F575.Up2Date
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.exe
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.pdb
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\ClosedXML.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\RBush.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Buffers.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Memory.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\ClosedXML.pdb
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\ClosedXML.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\RBush.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Buffers.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Memory.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilinc\Desktop\AdsApplication\Ad.UserInterface\obj\Debug\Ad.UserInterface.exe.config
