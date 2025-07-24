@@ -16,6 +16,6 @@ A simple yet extensible application for posting and viewing advertisements. Desi
 
 ## Technologies
 
-- C# (.NET) or WinForms / WPF / ASP.NET (depending on UI type)  
+- C# (.NET)  
 - Visual Studio IDE  
 - Object-Oriented Programming (OOP)
